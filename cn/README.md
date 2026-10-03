@@ -3,6 +3,7 @@
 Chinese lore dump from `lore_entries` (`title ILIKE '%Opcode%'`).
 
 - [1.1 Opcode:// D10 简述和角色](1.1 简述和角色.md) (1483 chars)
+- [1.1.1 Opcode:// D10：负重](1.1.1 负重.md) (681 chars)
 - [1.2 Opcode:// D10：技能](1.2 技能.md) (9338 chars)
 - [1.3 Opcode://D10：生命系统与健康](1.3 生命系统与健康.md) (2166 chars)
 - [1.4 Opcode:// D10: 建卡指南 By Mira](1.4 建卡指南 By Mira.md) (5039 chars)
@@ -12,3 +13,4 @@ Chinese lore dump from `lore_entries` (`title ILIKE '%Opcode%'`).
 - [Opcode:// D10：扩展规则：载具战斗和进阶载具操作](扩展规则：载具战斗和进阶载具操作.md) (12859 chars)
 - [Opcode:// D10：扩展规则：重火力和火炮](扩展规则：重火力和火炮.md) (9192 chars)
 - [Opcode://D10： 扩展规则：异能](扩展规则：异能.md) (15437 chars)
+- [(WIP) 扩展规则：网络战和渗透（现代）](extensions/扩展规则：网络战和渗透（现代）.md) (3408 chars)
