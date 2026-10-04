@@ -372,29 +372,16 @@ You may use **Operate (Computers — Guidance Systems)** for guidance, replacing
 ### Example Launch Platforms and Ammunition
 
 | Launch Platform | Seeker / Guidance Type | Skill | AP | Tracking | Damage Type | Damage | ROF / Reload | Projectile Velocity (m/s) | Range |
-
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **6G3-2 RPG-7V2(PG-7VM)** | Manual | Heavy Weapons | 2150 | — | HEAT | 4D10+2 | 0.5 | 180 | 300 |
-
 | **6G19 RPG-27 (7P47)** | Manual | Heavy Weapons | 4300 | — | HEAT | 5D10+2 | — (Disposable) | 180 | 300 |
-
 | **9P111(9M14)** | MCLOS | Guided Weapons | 3500 | — | HEAT | 4D10+4 | 0.2 | 180 | 2500 |
-
 | **9P135M(9M111 Fagot)** | SACLOS | Guided Weapons | 3500 | — | HEAT | 5D10+4 | 0.2 | 200 | 2500 |
-
 | **9P135M(9M113M Konkurs-M)** | SACLOS | Guided Weapons | 4550 | — | HEAT | 6D10+3 | 0.2 | 200 | 2500 |
-
 | **BGM-71 TOW** | SACLOS | Guided Weapons | 5000 | — | HEAT | 5D10+6 | 0.1 | 250 | 3000 |
-
 | **FGM-148 Javelin** | TVM(IR) | Guided Weapons, Heavy Weapons | 5000 | 10 | HEAT | 6D10+3 | — (Disposable) | 200 | 3000 |
-
 | **HN-5(9K32 Strela-2)** | TVM(IR) | Guided Weapons, Heavy Weapons | 350 | 15 | HE | 3D10+2 | 0.2 | 650 | 2000 |
-
 | **9K135 (9M133 Kornet)** | SACLOS | Guided Weapons | 13500 | — | HEAT(Tandem) | 5D10 | 0.4 | 300 | 4500 |
-
 | **Spike** | TVM(VIS) | Guided Weapons, Heavy Weapons | 7000 | 10 | HEAT | 5D10+3 | 0.1 | 180 | 5000 |
-
 | **One way attack FPV(HE)** | CV(VIS/IR) | Operate (Rotary Wing Aircraft), Guided Weapons, Operate (US&V) | 15 | 15 | HE | 2D6+3 | — | 10 | 2000 (From Starting Point) |
-
 | **LR one way attack UAV(HE)** | GNSS/CV/TVM | Guided Weapons, Operate (Computers), Operate (US&V), Operate (Fixed Wing Aircraft) | 100 | 15 | HE | 10D10 | — | 100 | 50000 |
