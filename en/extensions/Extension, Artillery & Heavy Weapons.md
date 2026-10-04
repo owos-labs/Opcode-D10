@@ -2,6 +2,7 @@
 by: "\"SuperKitty\" MKKO"
 last_updated: 08/26/2026
 translated at: 08/26/2026
+translate by: ChatGPT, IDK approx. 75%
 reviewed at: 09/17/2026
 ---
 
